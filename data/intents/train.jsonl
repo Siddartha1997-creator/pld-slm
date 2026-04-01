@@ -1,0 +1,55 @@
+{"text":"turn on bedroom light at 7 am","intent":"SCHEDULE_ACTION"}
+{"text":"set living room fan speed to 3","intent":"SET_VALUE"}
+{"text":"switch off all lights","intent":"TURN_OFF"}
+{"text":"uhh turn on the light pls","intent":"TURN_ON"}
+{"text":"fan slow karo","intent":"DECREASE_VALUE"}
+{"text":"make it comfortable","intent":"UNKNOWN"}
+{"text":"do the usual","intent":"UNKNOWN"}
+{"text":"turn off the bedroom light","intent":"TURN_OFF"}
+{"text":"switch on living room fan","intent":"TURN_ON"}
+{"text":"set the fan speed to 2","intent":"SET_VALUE"}
+{"text":"increase brightness a little","intent":"INCREASE_VALUE"}
+{"text":"decrease volume to 5","intent":"DECREASE_VALUE"}
+{"text":"schedule the light for 7 pm","intent":"SCHEDULE_ACTION"}
+{"text":"turn on the plant watering switch","intent":"TURN_ON"}
+{"text":"switch off garden sprinkler","intent":"TURN_OFF"}
+{"text":"start watering plants at 6 am","intent":"SCHEDULE_ACTION"}
+{"text":"schedule garden watering for 7 pm","intent":"SCHEDULE_ACTION"}
+{"text":"turn off watering in 20 minutes","intent":"SCHEDULE_ACTION"}
+{"text":"light on kar do please","intent":"TURN_ON"}
+{"text":"fan band kardo","intent":"TURN_OFF"}
+{"text":"garden ki light on kar do","intent":"TURN_ON"}
+{"text":"garden sprinkler on kar do na","intent":"TURN_ON"}
+{"text":"what is the status of the bedroom light","intent":"QUERY_STATUS"}
+{"text":"cancel the garden watering schedule","intent":"CANCEL_ACTION"}
+{"text":"turn on the kitchen light","intent":"TURN_ON"}
+{"text":"switch on the AC","intent":"TURN_ON"}
+{"text":"please start the exhaust fan","intent":"TURN_ON"}
+{"text":"turn off the living room light","intent":"TURN_OFF"}
+{"text":"switch off the AC","intent":"TURN_OFF"}
+{"text":"stop the exhaust fan","intent":"TURN_OFF"}
+{"text":"set AC temperature to 22","intent":"SET_VALUE"}
+{"text":"set volume to 8","intent":"SET_VALUE"}
+{"text":"change the fan speed to 4","intent":"SET_VALUE"}
+{"text":"set brightness to 30 percent","intent":"SET_VALUE"}
+{"text":"increase fan speed","intent":"INCREASE_VALUE"}
+{"text":"turn up the volume","intent":"INCREASE_VALUE"}
+{"text":"make it brighter","intent":"INCREASE_VALUE"}
+{"text":"boost the AC temperature a bit","intent":"INCREASE_VALUE"}
+{"text":"lower the brightness","intent":"DECREASE_VALUE"}
+{"text":"reduce fan speed to 1","intent":"DECREASE_VALUE"}
+{"text":"dim the lights a bit","intent":"DECREASE_VALUE"}
+{"text":"turn on bedroom fan at 9 pm","intent":"SCHEDULE_ACTION"}
+{"text":"switch off the AC after 2 hours","intent":"SCHEDULE_ACTION"}
+{"text":"start the garden sprinkler at 6 am tomorrow","intent":"SCHEDULE_ACTION"}
+{"text":"is the kitchen light on","intent":"QUERY_STATUS"}
+{"text":"check the fan status","intent":"QUERY_STATUS"}
+{"text":"what is the current AC temperature","intent":"QUERY_STATUS"}
+{"text":"is the garden sprinkler running","intent":"QUERY_STATUS"}
+{"text":"cancel the AC timer","intent":"CANCEL_ACTION"}
+{"text":"stop the scheduled fan shutdown","intent":"CANCEL_ACTION"}
+{"text":"remove the bedroom light schedule","intent":"CANCEL_ACTION"}
+{"text":"don't turn off the light at 11","intent":"CANCEL_ACTION"}
+{"text":"just do something","intent":"UNKNOWN"}
+{"text":"handle it","intent":"UNKNOWN"}
+{"text":"you know what to do","intent":"UNKNOWN"}

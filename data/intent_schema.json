@@ -1,0 +1,11 @@
+{
+    "TURN_ON": 0,
+    "TURN_OFF": 1,
+    "SET_VALUE": 2,
+    "INCREASE_VALUE": 3,
+    "DECREASE_VALUE": 4,
+    "SCHEDULE_ACTION": 5,
+    "QUERY_STATUS": 6,
+    "CANCEL_ACTION": 7,
+    "UNKNOWN": 8
+  }

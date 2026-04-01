@@ -1,0 +1,9 @@
+{"text":"please turn on the bedroom light","intent":"TURN_ON"}
+{"text":"switch off the living room fan","intent":"TURN_OFF"}
+{"text":"set bedroom light brightness to 50","intent":"SET_VALUE"}
+{"text":"increase the fan speed a bit","intent":"INCREASE_VALUE"}
+{"text":"decrease the volume to 2","intent":"DECREASE_VALUE"}
+{"text":"schedule garden lights for 9 pm","intent":"SCHEDULE_ACTION"}
+{"text":"what is the status of the garden sprinkler","intent":"QUERY_STATUS"}
+{"text":"cancel the bedroom light schedule","intent":"CANCEL_ACTION"}
+{"text":"do something nice","intent":"UNKNOWN"}

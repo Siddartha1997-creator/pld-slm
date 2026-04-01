@@ -1,0 +1,81 @@
+{"text": "please start the exhaust fan", "intent": "TURN_ON"}
+{"text": "uhh turn on the light pls", "intent": "TURN_ON"}
+{"text": "turn off the living room light", "intent": "TURN_OFF"}
+{"text": "check the fan status", "intent": "QUERY_STATUS"}
+{"text": "you know what to do", "intent": "UNKNOWN"}
+{"text": "fan band kardo", "intent": "TURN_OFF"}
+{"text": "reduce fan speed to 1", "intent": "DECREASE_VALUE"}
+{"text": "reduce fan speed to 1", "intent": "DECREASE_VALUE"}
+{"text": "dim the lights a bit", "intent": "DECREASE_VALUE"}
+{"text": "boost the AC temperature a bit", "intent": "INCREASE_VALUE"}
+{"text": "switch off garden sprinkler", "intent": "TURN_OFF"}
+{"text": "cancel the garden watering schedule", "intent": "CANCEL_ACTION"}
+{"text": "boost the AC temperature a bit", "intent": "INCREASE_VALUE"}
+{"text": "what is the status of the bedroom light", "intent": "QUERY_STATUS"}
+{"text": "make it comfortable", "intent": "UNKNOWN"}
+{"text": "reduce fan speed to 1", "intent": "DECREASE_VALUE"}
+{"text": "make it comfortable", "intent": "UNKNOWN"}
+{"text": "start the garden sprinkler at 6 am tomorrow", "intent": "SCHEDULE_ACTION"}
+{"text": "increase brightness a little", "intent": "INCREASE_VALUE"}
+{"text": "switch off the AC", "intent": "TURN_OFF"}
+{"text": "schedule the light for 7 pm", "intent": "SCHEDULE_ACTION"}
+{"text": "fan slow karo", "intent": "DECREASE_VALUE"}
+{"text": "don't turn off the light at 11", "intent": "CANCEL_ACTION"}
+{"text": "make it comfortable", "intent": "UNKNOWN"}
+{"text": "turn on the plant watering switch", "intent": "TURN_ON"}
+{"text": "turn on bedroom light at 7 am", "intent": "SCHEDULE_ACTION"}
+{"text": "turn up the volume", "intent": "INCREASE_VALUE"}
+{"text": "garden ki light on kar do", "intent": "TURN_ON"}
+{"text": "change the fan speed to 4", "intent": "SET_VALUE"}
+{"text": "fan band kardo", "intent": "TURN_OFF"}
+{"text": "increase brightness a little", "intent": "INCREASE_VALUE"}
+{"text": "reduce fan speed to 1", "intent": "DECREASE_VALUE"}
+{"text": "lower the brightness", "intent": "DECREASE_VALUE"}
+{"text": "boost the AC temperature a bit", "intent": "INCREASE_VALUE"}
+{"text": "fan slow karo", "intent": "DECREASE_VALUE"}
+{"text": "switch on the AC", "intent": "TURN_ON"}
+{"text": "cancel the garden watering schedule", "intent": "CANCEL_ACTION"}
+{"text": "schedule garden watering for 7 pm", "intent": "SCHEDULE_ACTION"}
+{"text": "stop the scheduled fan shutdown", "intent": "CANCEL_ACTION"}
+{"text": "switch on living room fan", "intent": "TURN_ON"}
+{"text": "do the usual", "intent": "UNKNOWN"}
+{"text": "make it comfortable", "intent": "UNKNOWN"}
+{"text": "is the kitchen light on", "intent": "QUERY_STATUS"}
+{"text": "don't turn off the light at 11", "intent": "CANCEL_ACTION"}
+{"text": "start watering plants at 6 am", "intent": "SCHEDULE_ACTION"}
+{"text": "just do something", "intent": "UNKNOWN"}
+{"text": "fan band kardo", "intent": "TURN_OFF"}
+{"text": "set brightness to 30 percent", "intent": "SET_VALUE"}
+{"text": "switch off the AC after 2 hours", "intent": "SCHEDULE_ACTION"}
+{"text": "what is the status of the bedroom light", "intent": "QUERY_STATUS"}
+{"text": "switch off all lights", "intent": "TURN_OFF"}
+{"text": "make it brighter", "intent": "INCREASE_VALUE"}
+{"text": "start watering plants at 6 am", "intent": "SCHEDULE_ACTION"}
+{"text": "set AC temperature to 22", "intent": "SET_VALUE"}
+{"text": "what is the current AC temperature", "intent": "QUERY_STATUS"}
+{"text": "increase fan speed", "intent": "INCREASE_VALUE"}
+{"text": "cancel the garden watering schedule", "intent": "CANCEL_ACTION"}
+{"text": "make it comfortable", "intent": "UNKNOWN"}
+{"text": "is the garden sprinkler running", "intent": "QUERY_STATUS"}
+{"text": "is the garden sprinkler running", "intent": "QUERY_STATUS"}
+{"text": "turn on bedroom fan at 9 pm", "intent": "SCHEDULE_ACTION"}
+{"text": "set AC temperature to 22", "intent": "SET_VALUE"}
+{"text": "set AC temperature to 22", "intent": "SET_VALUE"}
+{"text": "turn off watering in 20 minutes", "intent": "SCHEDULE_ACTION"}
+{"text": "turn on the kitchen light", "intent": "TURN_ON"}
+{"text": "stop the exhaust fan", "intent": "TURN_OFF"}
+{"text": "boost the AC temperature a bit", "intent": "INCREASE_VALUE"}
+{"text": "light on kar do please", "intent": "TURN_ON"}
+{"text": "set living room fan speed to 3", "intent": "SET_VALUE"}
+{"text": "set the fan speed to 2", "intent": "SET_VALUE"}
+{"text": "check the fan status", "intent": "QUERY_STATUS"}
+{"text": "set brightness to 30 percent", "intent": "SET_VALUE"}
+{"text": "garden sprinkler on kar do na", "intent": "TURN_ON"}
+{"text": "remove the bedroom light schedule", "intent": "CANCEL_ACTION"}
+{"text": "cancel the AC timer", "intent": "CANCEL_ACTION"}
+{"text": "don't turn off the light at 11", "intent": "CANCEL_ACTION"}
+{"text": "set volume to 8", "intent": "SET_VALUE"}
+{"text": "decrease volume to 5", "intent": "DECREASE_VALUE"}
+{"text": "check the fan status", "intent": "QUERY_STATUS"}
+{"text": "handle it", "intent": "UNKNOWN"}
+{"text": "turn off the bedroom light", "intent": "TURN_OFF"}

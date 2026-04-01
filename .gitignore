@@ -46,7 +46,6 @@ venv.bak/
 # ML/Data directories
 # Large model files and checkpoints
 scripts/models/
-data/
 
 # Cache and logs
 *.log
